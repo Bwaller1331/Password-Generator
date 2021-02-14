@@ -26,13 +26,15 @@ THEN the password is either displayed in an alert or written to the page
 **Here is an image of the site**
 ***
 
-```
-![](assets/img/Password-Generator.png)
-```
+![](img/Password-Generator.png)
 
 
 
 
+**Here is a video showing its functionality**
+***
+
+![](assets\img\PassGenTut.gif)
 
 
 
