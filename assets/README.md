@@ -34,9 +34,21 @@ THEN the password is either displayed in an alert or written to the page
 **Here is a video showing its functionality**
 ***
 
-![](assets\img\PassGenTut.gif)
+![](\img\PassGenTut.gif)
 
 
 
+## Link to deployable website:
+***
+
+**https://bwaller1331.github.io/Password-Generator/**
 
 
+## Link to GitHub Repo
+***
+
+**https://github.com/Bwaller1331/Password-Generator**
+
+
+# Author
+**Brandon Waller**
