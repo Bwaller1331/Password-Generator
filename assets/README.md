@@ -27,8 +27,8 @@ THEN the password is either displayed in an alert or written to the page
 ***
 
 ```
-![](assets\img\Password-Generator.png)
-
+![](assets/img/Password-Generator.png)
+```
 
 
 
